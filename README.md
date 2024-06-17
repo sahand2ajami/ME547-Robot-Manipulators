@@ -8,8 +8,12 @@ Before you begin, ensure you have the following installed:
 - MATLAB (R2021a or later)
 - Simulink
 - Control System Toolbox
+- Fanuc Hardware Support Package (for real-time implementation)
+- Fanuc LR Mate 200iD robot [[https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id](https://www.fanucamerica.com/products/robots/series/lr-mate/lr-mate-200id)]
 - Quanser Hardware Support Package (for real-time implementation)
-- Quanser linear flexible joint [[https://www.quanser.com/products/linear-flexible-joint/](https://www.quanser.com/products/linear-flexible-joint/)]
+- Quanser QArm robot [[https://www.quanser.com/products/qarm/](https://www.quanser.com/products/qarm/)]
+- Quanser Hardware Support Package (for real-time implementation)
+- Quanser linear flexible joint [[https://franka.de/](https://franka.de/)]
 
 ## Lab Content
 The repository is structured as follows:
